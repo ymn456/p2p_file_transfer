@@ -1,5 +1,7 @@
 # p2p_file_transfer
 
+运行效果链接：http://t.csdn.cn/iD1sY
+
 基于TCP开发的P2P文件传输
 
 开发语言：c++
